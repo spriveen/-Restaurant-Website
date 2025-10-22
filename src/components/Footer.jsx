@@ -26,12 +26,12 @@ const Footer = () => {
                             <MapPin className='text-red-500' />
                             <div>
                                 <p>123 Restaurant Street</p>
-                                <p>City, State 12345</p>
+                                <p>Colombo, Sri Lanka</p>
                             </div>
                         </div>
                         <div className='flex gap-2 items-center'>
                             <Phone className='text-red-500 my-4' />
-                            <p>Phone: (123) 456-7890</p>
+                            <p>Phone: (071) 456-7890</p>
                         </div>
                         <div className='flex gap-2'>
                             <Mail className='text-red-500' />
