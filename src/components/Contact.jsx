@@ -10,7 +10,7 @@ const Contact = () => {
                 <div className="mx-auto max-w-2xl text-center px-4 lg:px-0">
                     <h2 className="text-3xl lg:text-4xl font-bold tracking-tight text-red-500 ">Contact Us</h2>
                     <p className="mt-2 text-lg lg:text-xl leading-8 text-gray-600">
-                        Aute magna irure deserunt veniam aliqua magna enim voluptate.
+                        Have questions or want to work with us? Reach out and our team will get back to you as soon as possible.
                     </p>
                 </div>
                 <div className='lg:grid lg:grid-cols-2 mt-10 lg:mt-0'>
