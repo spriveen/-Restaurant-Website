@@ -66,7 +66,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="mt-8 border-t border-muted-foreground/20 pt-8 text-center">
-                    <p>&copy; {new Date().getFullYear()} Your <span className='text-red-500 font-semibold'>Spicy</span>Bites. All rights reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} Your <span className='text-red-500 font-semibold'>Riveen</span>Official. All rights reserved.</p>
                 </div>
             </div>
         </footer>
