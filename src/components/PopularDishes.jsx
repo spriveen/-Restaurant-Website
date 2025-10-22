@@ -10,22 +10,22 @@ const PopularDishes = () => {
         {
             id:1,
             pizza: pizza1,
-            name: "Peporoni Pizza",
-            desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo laudantium hic voluptas.",
+            name: "Margherita",
+            desc: "Classic Italian pizza with fresh mozzarella, basil leaves, and rich tomato sauce. Simple, fresh, and delicious.",
             rating: 4
         },
         {
             id:2,
             pizza: pizza2,
-            name: "Sushi Pizza",
-            desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo laudantium hic voluptas.",
+            name: "Pepperoni Pizza",
+            desc: "A crowd favorite topped with spicy pepperoni slices, gooey mozzarella, and tomato sauce for a perfect balance of flavor.",
             rating: 4
         },
         {
             id:3,
             pizza: pizza3,
-            name: "Margarita Pizza",
-            desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo laudantium hic voluptas.",
+            name: "Veggie Delight",
+            desc: " Loaded with fresh vegetables like bell peppers, onions, mushrooms, and olives, this pizza is healthy, colorful, and tasty.",
             rating: 4
         },
     ]
