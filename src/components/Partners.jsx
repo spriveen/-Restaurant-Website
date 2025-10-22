@@ -9,7 +9,10 @@ const Partners = () => {
     <div className='py-10 bg-white'>
       <div className='text-center'>
         <h1 className='text-3xl lg:text-4xl font-bold mb-4 text-red-500'>Our Partners</h1>
-        <p className='text-sm lg:text-xl'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laudantium beatae rerum accusantium.</p>
+<p className='text-sm lg:text-lg text-gray-700'>
+  We collaborate with industry-leading companies to deliver the best solutions and services to our clients.
+</p>
+
         <div 
          style={{
           maskImage: 'linear-gradient(to right, hsl(0 0% 0% / 0), hsl(0 0% 0% / 1) 10%, hsl(0 0% 0% / 1) 90%, hsl(0 0% 0% / 0))',
